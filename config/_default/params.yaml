@@ -5,64 +5,34 @@
 author:
   name: gushanskaya
   image: author.png
-  greeting: "Your new L1nkr site :tada:"
+  greeting: |
+    Я научу тебя оцифровывать твой бизнес
+    превращая хаос в управляемую систему.
+    И масштабироваться, когда «все уже внедрили» :tada:
   icon: ":wave:"
+
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/gushanskaya/asya.gushanskaya.ru
-  - link: https://github.com/gushanskaya/asya.gushanskaya.ru#readme
-  # - website:
-  # - x-twitter:
-  # - mastodon:
-  # - linkedin:
-  # - instagram:
-  # - reddit:
-  # - telegram:
-  # - whatsapp:
-  # - signal:
-  # - codepen:
-  # - dev:
-  # - email:
-  # - discord:
-  # - orcid:
-  # - slack:
-  # - stack-overflow:
-  # - twitch:
-  # - patreon:
-  # - soundcloud:
-  # - dribbble:
-  # - stack-exchange:
-  # - tiktok:
-  # - youtube:
-  # - keybase:
-  # - flickr:
-  # - tumblr:
-  # - kickstarter:
-  # - snapchat:
-  # - bluesky:
-  # - bitbucket:
-  # - bandcamp:
-  # - etsy:
-  # - spotify:
-  # - pinterest:
-  # - strava:
-  # - untappd:
-  # - skype:
-  # - medium:
-  # - foursquare:
-  # - apple:
-  # - amazon:
-  # - google:
-  # - paypal:
-  # - windows:
+  - website: https://learn.gushanskaya.ru/
+    title: "GitHub Репозиторий"
+  - instagram: https://instagram.com/asya_gushanskaya/
+    title: "Мой Инстаграм"
+  - telegram: https://t.me/asyagushanskaya
+    title: "Мой Telegram"
+  - youtube: https://www.youtube.com/@asyagushanskaya
+    title: "Мой YouTube Канал"
+
+
 
 ############################
 ## Colunms of Links
 ############################
+
+monochrome: true
 
 # between 2 & 6 columns are supported (both incl)
 columns: 2
@@ -72,7 +42,7 @@ columns: 2
 ###########################
 
 # add the icon name to each icon
-icontext: true
+icontext: false
 
 ############################
 ## Tooltips
@@ -89,3 +59,6 @@ title: asya.gushanskaya.ru
 description: "Demo site build with L1nkr & Hugo"
 images:
   - thumbnail.png
+
+footer_text: "© 2025 Ваше имя или название компании"
+
