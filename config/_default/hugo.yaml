@@ -1,24 +1,51 @@
 ############################
-## CHANGE THESE
+## Author
 ############################
 
-baseURL: "baseURL: "https://asya.gushanskaya.ru"
-
-title: Ася Гушанская
-
-############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/chrede88/L1nkr
+author:
+  name: gushanskaya
+  image: author.png
+  greeting: Подписаться
+  icon: ":wave:"
 
 ############################
-## MISC
+## Links
 ############################
 
-enableEmoji: true
-disableKinds: ["taxonomy", "term"]
-languageCode: "en-us"
-enableRobotsTXT: true
+links:
+  - website: https://learn.gushanskaya.ru/
+    title: "Школа"
+  - instagram: https://instagram.com/asya_gushanskaya/
+    title: "Мой Инстаграм"
+  - telegram: https://t.me/asyagushanskaya
+    title: "Мой Telegram"
+  - youtube: https://www.youtube.com/@asyagushanskaya
+    title: "Мой YouTube Канал"
+
+############################
+## Colunms of Links
+############################
+
+monochrome: true
+columns: 2
+
+###########################
+## Icon text
+###########################
+
+icontext: false
+
+############################
+## Tooltips
+############################
+
+tooltip: false
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: asya.gushanskaya.ru
+description: "🖤"
+images:
+  - thumbnail.png

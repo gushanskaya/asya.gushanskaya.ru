@@ -54,11 +54,6 @@ tooltip: false
 ###############################
 
 title: asya.gushanskaya.ru
-description: "Demo site build with L1nkr & Hugo"
+description: "🖤"
 images:
   - thumbnail.png
-
-footer_text: "<a href='https://t.me/ebashordie' target='_blank' rel='noopener noreferrer'>Create by 🖤</a>"
-
-
-
